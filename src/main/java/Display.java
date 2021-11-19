@@ -1,3 +1,8 @@
+package main.java;
+
+
+import main.java.Observer;
+
 public class Display extends Observer {
     @Override
     public void update(Product product) {

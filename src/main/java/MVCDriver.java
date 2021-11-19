@@ -1,3 +1,5 @@
+package main.java;
+
 //Similar functionality to Ex 1 driver code with a small change
 
 public class MVCDriver {

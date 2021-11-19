@@ -1,3 +1,5 @@
+package main.java;
+
 public class TicketPrinter extends Observer {
     @Override
     public void update(Product product) {

@@ -1,4 +1,7 @@
+package main.java;
+
 import java.util.ArrayList;
+import main.java.Observer;
 
 public class CashRegister {
     private int UPCCode;

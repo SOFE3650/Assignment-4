@@ -1,3 +1,5 @@
+package main.java;
+
 public class Product {
     private int UPCCode;
     private double price;
